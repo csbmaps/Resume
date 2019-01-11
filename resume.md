@@ -1,6 +1,6 @@
 # Cameron Bennett
 
-## Contact test
+## Contact
 > bennecam@oregonstate.edu
 >
 >(503) 539-1650
