@@ -7,7 +7,7 @@
 >
 >[LinkedIn](https://www.linkedin.com/in/csboregon/)
 
-![Headshot](/photos/DSC_1371.jpg "Cameron Bennett - Headshot")
+![Headshot](csbmaps.github.io/Photos/DSC_1371.jpg "Cameron Bennett - Headshot")
 
 Summary | Objective
 --------|----------
