@@ -7,7 +7,7 @@
 >
 >[LinkedIn](https://www.linkedin.com/in/csboregon/)
 
-![Headshot](photos/DSC_1371.jpg)
+![Headshot](Photos/DSC_1371.jpg)
 
 Summary | Objective
 --------|----------
